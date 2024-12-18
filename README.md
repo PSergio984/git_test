@@ -1,2 +1,3 @@
 # git_test
-hello odin
+basic recipe app
+for a test of my html skills
